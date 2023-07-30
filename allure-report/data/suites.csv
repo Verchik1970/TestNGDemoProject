@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sun Jul 30 15:25:58 MSK 2023","Sun Jul 30 15:25:58 MSK 2023","39","TestBoolean","Command line test","TestBoolean","TestBoolean","testChekN","testChekN",""
+"failed","Sun Jul 30 12:18:31 MSK 2023","Sun Jul 30 12:18:31 MSK 2023","58","TestBoolean","Command line test","TestBoolean","TestBoolean","testChekN","testChekN",""
+"passed","Sun Jul 30 15:25:59 MSK 2023","Sun Jul 30 15:25:59 MSK 2023","9","TestBoolean","Command line test","TestBoolean","TestBoolean","testDate","testDate",""
+"failed","Sun Jul 30 15:25:59 MSK 2023","Sun Jul 30 15:25:59 MSK 2023","1","TestBoolean","Command line test","TestBoolean","TestBoolean","testChekN","testChekN",""
+"passed","Sun Jul 30 15:25:59 MSK 2023","Sun Jul 30 15:25:59 MSK 2023","1","TestBoolean","Command line test","TestBoolean","TestBoolean","testChekN","testChekN",""
